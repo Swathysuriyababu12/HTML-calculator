@@ -2,4 +2,4 @@
 
 <h2>A mini calculator using "Javascript HTML CSS"</h2>
 
-<a href="">calculator-click here</a>
+<a href="https://loquacious-bonbon-9511fa.netlify.app/">calculator-click here</a>
